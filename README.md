@@ -5,6 +5,9 @@
 ✔ TASK 1 : Understanding the basic datatypes in Python such as lists, dictionaries, and sets
 
 ✔ TASK 2 : Load a CSV file into a Pandas DataFrame. Perform operations like 
+
             🟀 filtering data based on conditions
+            
             🟀 handling missing values
+            
             🟀 calculating summary statistics.
