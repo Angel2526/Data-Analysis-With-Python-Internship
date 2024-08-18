@@ -39,4 +39,11 @@
             🟀 Use techniques like PCA or feature importance to select the most important features.
             
             🟀 Optimize feature sets for improved model performance.
+
+✔ TASK 6 : Advanced Data Analysis Techniques
+
+            🟀 Implement time series analysis for forecasting trends and seasonality.
+
+            🟀 Perform sentiment analysis or text mining on unstructured data.
             
+            🟀 Explore clustering or classification techniques for segmentation and pattern recognition.
